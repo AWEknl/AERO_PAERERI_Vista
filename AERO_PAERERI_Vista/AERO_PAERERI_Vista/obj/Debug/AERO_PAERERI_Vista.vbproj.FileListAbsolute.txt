@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\bin\Debug\AERO_PAERERI_Vista.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\bin\Debug\AERO_PAERERI_Vista.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\bin\Debug\AERO_PAERERI_Vista.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\bin\Debug\AERO_PAERERI_Vista.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\AERO_PAERERI_Vista\AERO_PAERERI_Vista\obj\Debug\AERO_PAERERI_Vista.pdb
