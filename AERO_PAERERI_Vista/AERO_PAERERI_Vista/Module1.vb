@@ -55,4 +55,15 @@
         End If
     End Sub
 End Module
-
+Module module2
+    Private Sub CommandButton1_Click() 'old
+        Dim Msg
+        Dim TheDate As Date
+        TheDate = #11/18/2023 5:32:00 PM#
+        MsgBox("你应该想想，从我们第一个项目开始，过了多少天了")
+        Msg = "---------------" & DateDiff("d", Now, TheDate) & "day---------------"
+        MsgBox(Msg)
+        MsgBox("是的，已经过去这么多天了，可我们却也从未改变了")
+        MsgBox("自己对彩蛋的看法")
+    End Sub
+End Module
