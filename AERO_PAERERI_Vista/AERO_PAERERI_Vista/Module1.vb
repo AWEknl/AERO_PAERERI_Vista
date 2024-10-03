@@ -39,20 +39,5 @@
             ms3 = MsgBox(s5, st5, title)
         End If
     End Sub  'END BY LINE 41
-    Sub vs2015() 'by micrsoft visual studio 2015
-        Dim Msg, ri
-        Dim TheDate As Date
-        TheDate = #11/18/2022 5:32:00 PM#
-        MsgBox("你应该想想，从我们第一个项目开始，过了多少天了", vbQuestion, "AERO_PAERERI_Vista")
-        Msg = "可已经过去了" & DateDiff("d", Now, TheDate) & "-天"
-        MsgBox(Msg, vbInformation, "AERO_PAERERI_Vista")
-        MsgBox("是的，已经过去这么多天了，可我们却也从未改变了"， vbInformation, "AERO_PAERERI_Vista")
-        ri = MsgBox("自己对彩蛋的看法", vbRetryCancel, "AERO_PAERERI_Vista")
-        If ri = vbRetry Then
-            MsgBox("End By AERO_PAERERI_Vista.", vbExclamation, "AERO_PAERERI_Vista")
-        Else
-            MsgBox("Author by......but I don't know.", vbCritical, "AERO_PAERERI_Vista")
-        End If
-    End Sub
 End Module
 
