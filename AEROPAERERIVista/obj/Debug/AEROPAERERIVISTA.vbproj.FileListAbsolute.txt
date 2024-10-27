@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\AERO_PAERERI_Vista.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\AERO_PAERERI_Vista.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\AERO_PAERERI_Vista.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\AERO_PAERERI_Vista.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\ControlzEx.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\ControlzEx.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AEROPAERERIVISTA.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AERO_PAERERI_Vista.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AEROPAERERIVISTA.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AEROPAERERIVISTA.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AEROPAER.E46952A5.Up2Date
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AERO_PAERERI_Vista.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AERO_PAERERI_Vista.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\PROJECT\123\ConsoleApp1\obj\Debug\AERO_PAERERI_Vista.pdb
