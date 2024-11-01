@@ -1,4 +1,4 @@
-﻿Module Module1
+﻿Module Module1'开源版本 opera
     Sub Main()
         Dim Msg
         Dim ri
