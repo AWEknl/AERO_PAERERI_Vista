@@ -23,7 +23,6 @@
 ## 许可证
 本项目使用 Apache License 2.0（详见 LICENSE 文件）。
 
-## 作者
 
 Copyright © 2018 – 2038 オー五ハル. All rights reserved. 
 
