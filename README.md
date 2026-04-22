@@ -1,5 +1,4 @@
-<img width="1053" height="96" alt="image" src="https://github.com/user-attachments/assets/24840aa1-082c-4684-968e-378400b718e6" /># AERO_PAERERI_Vista
-
+# AERO_PAERERI_Vista
 一个用 Visual Basic .NET 编写的小型演示/“彩蛋”程序，最初使用 Visual Studio 2015 创建。程序通过若干 MsgBox 弹窗显示中文提示，计算一个硬编码日期与当前日期的天数差，并演示调用系统音量混合器与发送按键（SendKeys）。该仓库主要作为一个ppt项目的代码存储
 
 ## 要求
@@ -27,3 +26,4 @@
 ## 作者
 
 Copyright © 2018 – 2038 オー五ハル. All rights reserved. 
+
